@@ -1,0 +1,1 @@
+Method to avoid singularities when converting from DCM to quaternions
